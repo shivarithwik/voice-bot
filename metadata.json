@@ -1,0 +1,6 @@
+{
+  "name": "Vani AI",
+  "description": "An interactive Indian AI assistant Vani, supporting Hindi and Telugu with live voice and charm.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["speech_to_text", "text_to_speech", "multilingual"]
+}
