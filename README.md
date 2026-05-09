@@ -1,12 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Voice Bot – Hindi & Telugu AI Assistant
 
-# Run and deploy your AI Studio app
+A multilingual AI voice assistant web application built using React, TypeScript, and Vite.  
+The application supports Hindi and Telugu voice interaction with speech recognition and speech synthesis features.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/f9cb3de4-b6da-4b8a-b3b5-86754889d16f
+- Voice-based conversation
+- Hindi and Telugu language support
+- Speech-to-text conversion
+- Text-to-speech responses
+- AI-generated replies
+- Responsive user interface
+- Browser microphone support
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Node.js
+- Web Speech API
+- Gemini API
+
+## Project Structure
+
+```text
+voice-bot/
+│
+├── data/
+├── src/
+├── .env.example
+├── package.json
+├── server.ts
+├── vite.config.ts
+└── README.md
 
 ## Run Locally
 
